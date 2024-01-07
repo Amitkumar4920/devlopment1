@@ -29,40 +29,20 @@ Unveiling a Symphony of Capabilities:
 
 🌟 Empower Admin Brilliance - Granting admin the ability to weave magic into the platform by effortlessly adding new products, ensuring a dynamic and ever-evolving culinary landscape.
 
-Architecture
-Crafting Excellence with MERN Elegance:
-
-🔨 MERN Stack Mastery - The foundation of our food delivery app rests on the robust MERN stack, seamlessly integrating MongoDB, Express.js, React, and Node.js for a powerful and cohesive development experience.
-
-🏠 User-Centric Components - The app is sculpted into key components, each with a distinct purpose:
-
-Home Screen: A gateway to culinary exploration, showcasing a grid of tantalizing food items, inviting users to delve into a world of flavors.
-My Orders Screen: A personalized space where users can track and manage their culinary adventures, keeping them in control.
-Cart Screen: A visual representation of desire, displaying selected items with a clear pathway to order fulfillment.
-Login and Logout Screen: A secure entrance and exit, ensuring user authentication with a seamless login/logout experience.
-Admin Screen: A realm of authority, providing admin the tools to curate menus and oversee orders with finesse.
-Design
-🎨 Modern Simplicity - The app's design is a testament to modern aesthetics and user-friendly principles.
-
-Visual Harmony: A black background sets the stage, providing a canvas for vibrant food visuals to shine.
-Typography Prowess: Simple and impactful typography guides users through the app effortlessly.
-Clear Communication: Concise language, straightforward labels, and intuitive instructions enhance the user experience.
-🌟 User-Centric Interface - Every screen is meticulously designed with the user in mind:
-
-Home Screen: Embraces a grid view, transforming the menu into an enticing visual feast.
-Cart Screen: Puts the user in control, displaying items, total price, and a prominent checkout button.
-Order Screen: Unveils the culmination of the user's choices, presenting the details of their order with transparency.
-Embark on a journey where architecture and design converge, creating an app that not only functions seamlessly but also captivates with its aesthetic prowess.
-
-## Usage-
-
 
 
 ## Live-Demo-
 
-[Food-Delivery-App-Live]()
+Live Demo
+🚀 Embark on a Digital Voyage
 
+👉 Live Demo 👈
 
 ## Screenshot-
 
+![1](https://github.com/Amitkumar4920/devlopment1/assets/88572365/21d184aa-dc2d-4ac4-b52a-73bf51532661)
+![2](https://github.com/Amitkumar4920/devlopment1/assets/88572365/ef197194-225a-4771-87b3-4a75ffd11432)
+![3](https://github.com/Amitkumar4920/devlopment1/assets/88572365/1eff5015-057f-4b60-be31-31c7fb555762)
+![4](https://github.com/Amitkumar4920/devlopment1/assets/88572365/3f186231-117a-4638-ab07-2ba207547c98)
+![5](https://github.com/Amitkumar4920/devlopment1/assets/88572365/242e30e8-7f78-4552-a4f8-428114086584)
 
