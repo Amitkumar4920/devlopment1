@@ -6,8 +6,7 @@ The purpose of this project is to develop a food delivery app using the MERN (Mo
 ## Tech-Stack-
 
 <div align="left">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img alt="Tailwind" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100057231108477&tbnid=7pvNKOSNc-e12M&vet=12ahUKEwj7v-PQ_8qDAxVpQGwGHS37D7YQMygEegQIARB8..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Ftailwindcss%2F&docid=lklWkHFJWSrpuM&w=934&h=921&q=tailwind%20image&ved=2ahUKEwj7v-PQ_8qDAxVpQGwGHS37D7YQMygEegQIARB8"/> 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
