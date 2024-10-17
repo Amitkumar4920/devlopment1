@@ -7,17 +7,17 @@ Unveiling the Technological Tapestry:
 
 🚀 React.js - Craft captivating user interfaces with the artistry of declarative components and seamless updates.
 
-🎨 Tailwind CSS - Sculpting styles with ease, Tailwind CSS adds a touch of aesthetic finesse to the visual landscape.
+Tailwind CSS - Sculpting styles with ease, Tailwind CSS adds a touch of aesthetic finesse to the visual landscape.
 
 🔗 Redux - Masterfully orchestrating state management, ensuring a symphony of data and actions throughout the application.
 
 💳 Stripe API - Elevate transactions to an art form, seamlessly integrating secure and efficient payment processing.
 
-🌐 Node - Empower server-side development with a lightweight, high-performance runtime environment.
+Node - Empower server-side development with a lightweight, high-performance runtime environment.
 
-🚄 Express.js - Streamline the journey of data, building robust APIs with a minimalist, yet powerful web application framework.
+Express.js - Streamline the journey of data, building robust APIs with a minimalist, yet powerful web application framework.
 
-🌍 MongoDB - Nurturing data with the flexibility of a NoSQL database, ensuring scalability and resilience.
+MongoDB - Nurturing data with the flexibility of a NoSQL database, ensuring scalability and resilience.
 
 Embark on a journey where technology meets elegance, and each component is a brushstroke on the canvas of innovation
 </div>
