@@ -41,7 +41,6 @@ Live Demo
 
 👉 https://devlopment1.vercel.app/ 👈
 
-
 ## Screenshot-
 
 ![1](https://github.com/Amitkumar4920/devlopment1/assets/88572365/21d184aa-dc2d-4ac4-b52a-73bf51532661)
